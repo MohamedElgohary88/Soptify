@@ -7,4 +7,9 @@ class AppColors {
   static const Color darkerBackground = Color(0xFF1C1B1B);
   static const Color grey = Color(0xFFBEBEBE);
   static const Color darkGrey = Color(0xFF343434);
+
+  // New colors from GetStartedPage
+  static const Color lightGreen = Color(0xFFD1F2EB);
+  static const Color introText = Colors.black;
+  static const Color introSubText = Colors.black87;
 }
