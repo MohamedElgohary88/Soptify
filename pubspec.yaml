@@ -19,7 +19,7 @@ dependencies:
   get_it: ^7.7.0
   dartz: ^0.10.1
   just_audio: ^0.9.39
-  firebase_core:
+  firebase_core: ^2.32.0
 
 dev_dependencies:
   flutter_test:
